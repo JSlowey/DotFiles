@@ -12,3 +12,6 @@ alias upgrade='sudo apt-get upgrade'
 
 #Faster CD
 alias ..='cd ..'
+
+#Show everything with ls
+alias ls='ls -ahlt'
