@@ -1,0 +1,20 @@
+# Enable smooth scrolling
+set smooth
+
+# Indent new line to same as previous
+set autoindent
+
+# Auto create backup file
+set backup
+
+# Show cursor location
+set const
+
+# Dont write newline at end
+set nonewlines
+
+# Set TAB to lenght of 4
+set tabsize 4
+
+# Turn TAB in SPACE 
+set tabstospaces
